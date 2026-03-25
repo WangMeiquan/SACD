@@ -1,4 +1,4 @@
-# SACD: [你的论文标题，匿名版，不要提作者/机构]
+# SACD: Mitigating Implicit Semantic-Induced Hallucination via Strategy-aware Adaptive Contrastive Decoding in Large Language Models 
 
 ## Overview
 This repository contains the code, experimental data, and reproduction scripts for the paper submitted to ACM CCS 2026, Cycle B.
