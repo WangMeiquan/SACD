@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains the code, experimental data, and reproduction scripts for the paper submitted to ACM CCS 2026, Cycle B.
-![Overview of SACD]{Overview of SACD.png}
+![Overview of SACD]（Overview of SACD.png）
 
 ## Requirements
 - Python 3.x
