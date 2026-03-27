@@ -1,4 +1,4 @@
-# SACD: Mitigating Implicit Semantic-Induced Hallucination via Strategy-aware Adaptive Contrastive Decoding in Large Language Models 
+# SACD: Mitigating Implicit Semantic-Induced Hallucination via Strategy-Aware Adaptive Contrastive Decoding in Large Language Models 
 
 Code for the CCS 2026 paper ”SACD: Mitigating Implicit Semantic-Induced Hallucination via Strategy-aware Adaptive Contrastive Decoding in Large Language Models“
 
