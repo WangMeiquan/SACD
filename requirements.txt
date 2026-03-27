@@ -29,5 +29,4 @@ pytest==8.4.2
 types-requests==2.32.4.20250809
 sqlitedict==2.1.0
 ipdb==0.13.13
-transformers==0.20.3  # 注意：删掉你本地的源码安装行，用正常版本
 wget==3.2
