@@ -9,14 +9,14 @@ Code for the CCS 2026 paper ”SACD: Mitigating Implicit Semantic-Induced Halluc
 
 ## Setup
 ```
-- conda create -n SACD python=3.10
-- conda activate SACD
-- cd SACD
-- pip install -r requirements.txt 
-- pip install git+https://github.com/davidbau/baukit
-- cd transformers
-- pip install -e .
-- cd experiments
+conda create -n SACD python=3.10
+conda activate SACD
+cd SACD
+pip install -r requirements.txt 
+pip install git+https://github.com/davidbau/baukit
+cd transformers
+pip install -e .
+cd experiments
 ```
 
 
